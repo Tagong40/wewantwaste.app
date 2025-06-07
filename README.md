@@ -23,6 +23,3 @@ Key Features
     Asynchronous Data Fetching: Demonstrates fetching product data from a mock API using Axios, with proper handling of loading and error states.
 
     Responsive & Accessible: The layout is fully responsive and adheres to accessibility best practices, including semantic HTML, ARIA roles, and keyboard navigation support.
-
-    Centralized Theming: Colors and styles are defined in tailwind.config.js for easy customization and consistency.
-
